@@ -5,3 +5,5 @@
 - Team Members:
   1. Munteanu Stefan
   2. Baltag Bianca
+  3. Efros Ciprian
+  4. Chelba Sergiu-Mihai
